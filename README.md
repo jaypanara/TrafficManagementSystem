@@ -1,4 +1,4 @@
-# Traffic-Management-System
+# TrafficManagementSystem
 To help the local police department minimize their installation of security cameras at traffic intersections - based on Vertex Cover problem
 
 * Languages: Python, C++
